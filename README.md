@@ -1,2 +1,2 @@
-# OOP-Game-Project
-โปรเจคนี้เป็นส่วนหนึ่งของวิชา Object-Oriented-Programming
+# Duck-Hunter
+This project is a part of Object Oriented Programming course.
